@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "dx-empty",
+  "name": "Dev-Ed-Master",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "64.0"
